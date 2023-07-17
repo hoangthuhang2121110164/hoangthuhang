@@ -1,0 +1,12 @@
+D:\HoangThuHang_2121110164\hoangthuhan\example\bin\Debug\example.exe.config
+D:\HoangThuHang_2121110164\hoangthuhan\example\bin\Debug\example.exe
+D:\HoangThuHang_2121110164\hoangthuhan\example\bin\Debug\example.pdb
+D:\HoangThuHang_2121110164\hoangthuhan\example\obj\Debug\example.csprojResolveAssemblyReference.cache
+D:\HoangThuHang_2121110164\hoangthuhan\example\obj\Debug\example.Form1.resources
+D:\HoangThuHang_2121110164\hoangthuhan\example\obj\Debug\example.Form2.resources
+D:\HoangThuHang_2121110164\hoangthuhan\example\obj\Debug\example.Properties.Resources.resources
+D:\HoangThuHang_2121110164\hoangthuhan\example\obj\Debug\example.csproj.GenerateResource.Cache
+D:\HoangThuHang_2121110164\hoangthuhan\example\obj\Debug\example.exe
+D:\HoangThuHang_2121110164\hoangthuhan\example\obj\Debug\example.pdb
+D:\HoangThuHang_2121110164\hoangthuhan\example\obj\Debug\example.Form3.resources
+D:\HoangThuHang_2121110164\hoangthuhan\example\obj\Debug\example.Form4.resources
