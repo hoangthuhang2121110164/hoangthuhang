@@ -28,5 +28,22 @@ namespace example
             Form3 objForm03 = new Form3();
             objForm03.ShowDialog();
         }
+        private void button15_Click(object sender, EventArgs e)
+        {
+            dangnhap objFormdangnhap = new dangnhap();
+            objFormdangnhap.ShowDialog();
+        }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            taianh objFormtaianh = new taianh();
+            objFormtaianh.ShowDialog();
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            Form13 objForm13 = new Form13();
+            objForm13.ShowDialog();
+        }
     }
 }

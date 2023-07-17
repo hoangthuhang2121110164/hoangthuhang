@@ -37,6 +37,7 @@
             this.btPlus = new System.Windows.Forms.Button();
             this.btBang = new System.Windows.Forms.Button();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.SuspendLayout();
             // 
             // bt0
@@ -157,5 +158,6 @@
         private System.Windows.Forms.Button btPlus;
         private System.Windows.Forms.Button btBang;
         private System.Windows.Forms.ProgressBar progressBar1;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
