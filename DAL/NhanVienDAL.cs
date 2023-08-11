@@ -34,7 +34,7 @@ namespace QL_CaPhe.DAL
             cmd = new SqlCommand(sql, conn);
             cmd.ExecuteNonQuery();
             conn.Close();
-            MessageBox.Show("xóa tài khoản nhân viên thành công", "Thông báo");
+            MessageBox.Show("xóa tài khoản nhân viênthành công", "Thông báo");
             conn.Close();
             return sql;
         }

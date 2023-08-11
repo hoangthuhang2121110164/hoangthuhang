@@ -8,7 +8,6 @@ using QL_CaPhe.DAL.QL_CaPheTableAdapters;
 using System.Windows.Forms;
 using System.Data;
 using System.Data.SqlClient;
-
 namespace QL_CaPhe.DAL
 {
     public class ChucVuDAL

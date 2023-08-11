@@ -64,7 +64,6 @@ namespace QL_CaPhe.DAL
                 return 0;
             }
         }
-
         public int tongDTL()
         {
             try

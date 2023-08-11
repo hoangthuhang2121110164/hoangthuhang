@@ -86,7 +86,6 @@ namespace QL_CaPhe.DAL
                 return false;
             }
         }
-    
         public int? SLCon()
         {
             try
